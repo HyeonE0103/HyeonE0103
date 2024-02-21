@@ -2,7 +2,7 @@
 
 ### Profile
 
-<b>이메일</b> | &nbsp; <a href="mag30102000@gmail.com"  target="_blank" >mag30102000@gmail.com</a>
+<b>이메일</b> | &nbsp; <a href="mag30102000@gmail.com"  target="_blank" >mag3010@naver.com</a>
 <br />
 <b>블로그</b> | &nbsp; <a href="https://hyeon-e.tistory.com/"  target="_blank" >https://hyeon-e.tistory.com/</a>
 
